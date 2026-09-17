@@ -35,3 +35,5 @@ Skilluv détectera automatiquement ta PR et débloquera ton premier badge.
 ## My introduction / Ma présentation
 
 <!-- Add your line here / Ajoute ta ligne ici ↓ -->
+
+Jeremie. Je construis Skilluv : un compagnonnage tech où ce que les gens savent faire se prouve par des artefacts réels plutôt que par un diplôme. Backend Rust. Ce que je veux apprendre : le faire tenir en production.
